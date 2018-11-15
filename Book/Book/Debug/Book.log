@@ -1,0 +1,3 @@
+﻿  Book.cpp
+e:\uni work\6th semester\computer graphics\book\book\book.cpp(34): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Book.vcxproj -> E:\uni work\6th Semester\Computer Graphics\Book\Debug\Book.exe

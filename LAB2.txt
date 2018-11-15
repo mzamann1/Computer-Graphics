@@ -1,0 +1,57 @@
+what we study in CG?
+
+1- Modelling , 2-Animation , 3-Adding Visual Reactions , 4-Rendering & Raterization , 
+5- Special Effects
+
+3-1 light & material Interaction 
+3-2 Texturing
+3-3 Shadows & Reflections.
+
+
+5-1 Flame & Explosion
+5-2 Image Wrapping
+5-3 Clouds
+5-4 Water waves
+5-5 Lighting and Thunder
+5-6 Cloth Simulation
+5-7 Transparency (alpha blending) 
+5-8 Facial Expression
+5-9 Fog 
+5-10 Motion Blurred
+5-11 Distortion Effect.
+
+===========================================================================================
+
+Modelling Primitives =>  1- Output Priitives 2- Input Premitives
+
+
+
+1-1 Point 			P(x,y)
+1-2 Line			P(x1,y1),P2(x2,y2)
+1-3 Polyline			
+1-4 Text	=> Text mode , Graphics Mode.
+1-5 Filled region
+1-6 raster images
+
+
+===========================================================================================
+
+point code:
+
+glbegin(GL_POINTS);
+glVertex2i(x,y);
+glEnd();
+
+
+Line code:
+
+glbegin(GL_LINES);
+glVertex2i(x,y);
+glVertex2i(x,y);
+gEnd();
+
+
+
+
+
+
